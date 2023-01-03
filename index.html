@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Tip Calculator</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Tip Calculator</h1><hr>
+
+        <p class="p">Bill ($):</p>
+        <input type="number" name="bill" min="0" oninput="update(this)"><br>
+        <p class="p">Tip (%):</p>
+        <input type="number" name="tip" min="0" max="100" value="15" oninput="update(this)"><br>
+        <p class="p">Number of people:</p>
+        <input type="number" name="people" min="1" value="1" oninput="update(this)"><br><hr>
+
+        <div id="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
