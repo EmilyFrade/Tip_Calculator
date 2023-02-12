@@ -3,9 +3,9 @@
 </div>
 
 <p align="center">
-    <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-features">Features</a>
+    <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#features">Features</a>
 </p>
 
 [TipCalculator.webm](https://user-images.githubusercontent.com/82189395/210434774-62bd7ee9-5697-491e-ada1-91f0fd693cc9.webm) 
